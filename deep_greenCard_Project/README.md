@@ -1,2 +1,2 @@
-=======
-## Made with love by Daksh Sharma
+
+Made by Daksh Sharma
